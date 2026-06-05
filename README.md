@@ -19,3 +19,22 @@ Saya Riz Atma
 
 - Sistem Top Up Game
 - Game Petualangan 2D
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rizatma&show_icons=true&theme=tokyonight)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizatma&layout=compact&theme=tokyonight)
+
+## Tools & Technologies
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine)
+
